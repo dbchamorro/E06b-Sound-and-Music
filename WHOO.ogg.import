@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/WHOO.ogg-dd930b3e9728fea34ae54349a088273f.oggstr"
+
+[deps]
+
+source_file="res://WHOO.ogg"
+dest_files=[ "res://.import/WHOO.ogg-dd930b3e9728fea34ae54349a088273f.oggstr" ]
+
+[params]
+
+loop=true
+loop_offset=0
